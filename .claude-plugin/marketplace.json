@@ -24,6 +24,23 @@
       "license": "MIT",
       "keywords": ["effort-routing", "effort", "cost-optimization", "prompt-classification"],
       "category": "productivity"
+    },
+    {
+      "name": "cc-skills",
+      "description": "Claude Code skills: reverse engineering with Hopper Disassembler (auto-detect architecture, single-instance XPC management, binary-size-scaled timeout).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jacob Clayden",
+        "email": "me@jacobcx.dev"
+      },
+      "source": {
+        "source": "github",
+        "repo": "jacobcxdev/cc-skills"
+      },
+      "homepage": "https://github.com/jacobcxdev/cc-skills",
+      "license": "MIT",
+      "keywords": ["skills", "hopper", "reverse-engineering", "disassembly"],
+      "category": "productivity"
     }
   ]
 }

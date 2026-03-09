@@ -28,7 +28,7 @@
     {
       "name": "cc-skills",
       "description": "Claude Code skills: reverse engineering with Hopper Disassembler (auto-detect architecture, single-instance XPC management, binary-size-scaled timeout).",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "Jacob Clayden",
         "email": "me@jacobcx.dev"
